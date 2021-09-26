@@ -1,0 +1,40 @@
+body {
+    background-color: #ba00ff;
+    margin: 0;
+    padding: 0;
+    cursor: default;
+}
+
+form {
+    margin: 0 auto;
+    width: 900px;
+    padding: 20px 20px 20px 20px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    word-wrap: break-word;
+}
+
+textarea {
+    resize: none;
+    width: 239px;
+    outline: none;
+    height: 16px;
+    cursor: pointer;
+}
+
+input {
+    margin-bottom: 4px;
+    cursor: pointer;
+    outline: none;
+}
+
+#button {
+    cursor: pointer;
+    background-color: #ba00ff;
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+    width: 145px;
+}
